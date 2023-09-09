@@ -5,5 +5,5 @@ LearnZ is a web-based platform designed to make learning high-level concepts eas
 ## Getting Started
 To get started with LearnZ, follow these steps:
 
-1) **Clone the Repository:** Clone this repository to your local machine using Git.
- ### `` git clone https://github.com/yourusername/LearnZ.git  ``
+1) **Clone the Repository:** Clone this repository to your local machine using the following Git command:
+ **`git clone https://github.com/yourusername/LearnZ.git`**
